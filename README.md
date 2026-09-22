@@ -84,12 +84,8 @@ This assignment covers administration and operational management of Oracle Multi
 
 ---
 
-## Academic Integrity Statement
-I declare that all commands, configurations, technical steps, screenshots, and repository files presented here reflect my own individual practical execution and documentation.
-
----
 
 ## Submission Details Block
-Repository Link: [Insert Your GitHub Repository URL Here]
+Repository Link: https://github.com/Melissaaaaaaaaaa/oracle_pdb_ass_II_29686_melissa
 PDB Name Created: me_pdb_29686
-Issues Encountered: No
+Issues Encountered: Yes
